@@ -4,7 +4,7 @@ Bloc 2 - Analyse exploratoire, descriptive et inférentielle de données - Speed
 
 Luca Laborde - luca.laborde@gmail.com
 
-Lien de la vidéo :
+Lien de la vidéo : https://share.vidyard.com/watch/PQU8XonymMgT8uHoBuh11a?
 
 # Speed Dating with Tinder - Speed Dating Project
 
